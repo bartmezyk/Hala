@@ -1,0 +1,10 @@
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\bin\Debug\BartoszMezykLab1.exe.config
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\bin\Debug\BartoszMezykLab1.exe
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\bin\Debug\BartoszMezykLab1.pdb
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.csprojAssemblyReference.cache
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.FormName.resources
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.csproj.GenerateResource.cache
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.exe
+C:\Users\Bartosz\source\repos\BartoszMezykLab1\BartoszMezykLab1\obj\Debug\BartoszMezykLab1.pdb
